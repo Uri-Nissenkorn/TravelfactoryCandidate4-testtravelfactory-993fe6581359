@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/TravelfactoryCandidate4-testtravelfactory-993fe6581359.props" />
+</Project>

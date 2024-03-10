@@ -1,0 +1,12 @@
+{
+  "ket": {
+    "English": "cds",
+    "French": "cds",
+    "German": "cds"
+  },
+  "cds": {
+    "English": "cdsc",
+    "French": "dcs",
+    "German": "cds"
+  }
+}
